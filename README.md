@@ -1,0 +1,2 @@
+# Simple-Harmonic-Motion-and-its-Graphical-Analysis
+It considers three parameter amplitude, frequency, and phase. We have to choose which parameters would be constant and accordingly values are given. By analyzing those values it will show its respective displacement, velocity, acceleration, superimposed graph. It works on Python 2.7. Operating system-Linux For Windows, you have Python 2.7 and also install numpy module.
